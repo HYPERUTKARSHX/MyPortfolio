@@ -90,19 +90,17 @@ nav ul li {
 
 .hero {
   display: flex;
-  align-items:center;
-  justify-content: space-around;
-
+  align-items: space-around;
+  justify-content: space-evenly;
   gap: 2.5rem;
   max-width: 68.75rem;
   margin: auto;
+  
 }
 
 .hero img {
   height:30rem;
   width: 37rem;
-  
-  
 
 }
 .bio {
